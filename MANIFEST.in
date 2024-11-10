@@ -1,0 +1,5 @@
+include README.md
+include requirements.txt
+include pyproject.toml
+include pyrightconfig.json
+recursive-include src *.py 
