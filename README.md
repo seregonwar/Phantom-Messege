@@ -54,7 +54,7 @@ anonymous-sender-gui
 ```
 
 ## Project Structure
-
+```bash
 anonymous-message-sender/
 ├─── src/
 │ ├─── core/ # Core logic
@@ -64,3 +64,4 @@ anonymous-message-sender/
 │ ├─── parser/ # page parser
 │ ├─── utils/ 
 ├─── tools/ #key generator and agent manegement
+```
