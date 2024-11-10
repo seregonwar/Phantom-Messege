@@ -1,0 +1,29 @@
+{
+    "intros": [
+        "Hey",
+        "Hi",
+        "Hello",
+        "Yo",
+        "Hey there",
+        "Hi there",
+        "Greetings"
+    ],
+    "expressions": [
+        "that's cool",
+        "that's nice",
+        "that's great",
+        "that's amazing",
+        "that's awesome",
+        "that's wonderful",
+        "that's fantastic"
+    ],
+    "endings": [
+        "right",
+        "you know",
+        "for sure",
+        "indeed",
+        "definitely",
+        "absolutely",
+        "certainly"
+    ]
+} 

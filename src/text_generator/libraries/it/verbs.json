@@ -1,0 +1,18 @@
+{
+    "present": [
+        "ama", "crea", "scopre", "esplora", "condivide", "costruisce", "ispira",
+        "sogna", "crede", "pensa", "sente", "sa", "vuole", "desidera", "spera"
+    ],
+    "past": [
+        "ha amato", "ha creato", "ha scoperto", "ha esplorato", "ha condiviso",
+        "ha costruito", "ha ispirato", "ha sognato", "ha creduto", "ha pensato"
+    ],
+    "future": [
+        "amerà", "creerà", "scoprirà", "esplorerà", "condividerà",
+        "costruirà", "ispirerà", "sognerà", "crederà", "penserà"
+    ],
+    "continuous": [
+        "sta amando", "sta creando", "sta scoprendo", "sta esplorando",
+        "sta condividendo", "sta costruendo", "sta ispirando", "sta sognando"
+    ]
+} 

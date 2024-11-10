@@ -1,0 +1,18 @@
+{
+    "present": [
+        "loves", "creates", "discovers", "explores", "shares", "builds", "inspires",
+        "dreams", "believes", "thinks", "feels", "knows", "wants", "needs", "hopes"
+    ],
+    "past": [
+        "loved", "created", "discovered", "explored", "shared", "built", "inspired",
+        "dreamed", "believed", "thought", "felt", "knew", "wanted", "needed", "hoped"
+    ],
+    "future": [
+        "will love", "will create", "will discover", "will explore", "will share",
+        "will build", "will inspire", "will dream", "will believe", "will think"
+    ],
+    "continuous": [
+        "is loving", "is creating", "is discovering", "is exploring", "is sharing",
+        "is building", "is inspiring", "is dreaming", "is believing", "is thinking"
+    ]
+} 

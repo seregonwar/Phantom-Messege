@@ -1,0 +1,38 @@
+{
+    "intros": [
+        "Volevo solo dire che",
+        "Penso che",
+        "Sai cosa",
+        "Hai notato come",
+        "Non è incredibile quando",
+        "Non posso fare a meno di notare",
+        "È affascinante come",
+        "Credo che",
+        "Non ti piace quando",
+        "È incredibile che"
+    ],
+    "connectors": [
+        "perché",
+        "mentre",
+        "sebbene",
+        "anche se",
+        "dato che",
+        "quando",
+        "siccome",
+        "considerando che",
+        "visto che",
+        "ora che"
+    ],
+    "endings": [
+        "vero?",
+        "non credi?",
+        "non è così?",
+        "sai?",
+        "che ne pensi?",
+        "non sei d'accordo?",
+        "che ne dici?",
+        "ci credi?",
+        "non è fantastico?",
+        "quanto è bello?"
+    ]
+} 

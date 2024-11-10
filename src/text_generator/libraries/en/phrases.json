@@ -1,0 +1,38 @@
+{
+    "intros": [
+        "Just wanted to say",
+        "I think that",
+        "You know what",
+        "Have you noticed how",
+        "Isn't it amazing when",
+        "Can't help but notice",
+        "It's fascinating how",
+        "I believe",
+        "Don't you love when",
+        "It's incredible that"
+    ],
+    "connectors": [
+        "because",
+        "while",
+        "although",
+        "even though",
+        "since",
+        "whenever",
+        "as",
+        "considering that",
+        "given that",
+        "now that"
+    ],
+    "endings": [
+        "right?",
+        "don't you think?",
+        "isn't it?",
+        "you know?",
+        "what do you think?",
+        "wouldn't you agree?",
+        "how about that?",
+        "can you believe it?",
+        "isn't that amazing?",
+        "how cool is that?"
+    ]
+} 

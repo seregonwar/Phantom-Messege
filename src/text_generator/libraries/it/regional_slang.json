@@ -1,0 +1,34 @@
+{
+    "romano": {
+        "intros": ["Aò", "Anvedi", "A regà", "Daje", "A zì"],
+        "expressions": [
+            "è da paura",
+            "è 'na bomba",
+            "è forte",
+            "spacca",
+            "stamo"
+        ],
+        "endings": ["daje", "ao", "mortacci", "anvedi"]
+    },
+    "milanese": {
+        "intros": ["Uè", "Ciapa", "Bello", "Oh bello"],
+        "expressions": [
+            "è il top",
+            "è figo",
+            "spacca",
+            "è una figata",
+            "è tanta roba"
+        ],
+        "endings": ["figa", "bella lì", "oh bello", "ciapa"]
+    },
+    "napoletano": {
+        "intros": ["Uè", "Guagliò", "Bella là"],
+        "expressions": [
+            "è 'na cosa bella",
+            "è 'na figata",
+            "spacc",
+            "è 'na bomba"
+        ],
+        "endings": ["uagliò", "jamm", "bell"]
+    }
+} 
