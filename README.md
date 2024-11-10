@@ -1,75 +1,66 @@
 # Phantom Messenger
 
-Un potente strumento per l'invio automatizzato di messaggi anonimi su diverse piattaforme, dotato di un'interfaccia grafica moderna e intuitiva.
+This program is a concrete example of a p2p and dropbox system for license management, as a whole it integrates a fully functional spamming program and a key generator and manager.
 
-## Caratteristiche
+## Features
 
-- 🌐 Supporto multi-piattaforma (NGL.link, Tellonym, ecc.)
-- 🌍 Supporto multilingua (Italiano, Inglese)
-- 🎯 Generazione intelligente e personalizzata di messaggi
-- 🎨 Interfaccia grafica moderna con temi Dark/Light
-- 📊 Statistiche in tempo reale e grafici interattivi
-- 🔄 Gestione avanzata dei tempi di invio
-- 💬 Supporto per slang e dialetti regionali
-- 📱 Anteprima dei messaggi con suggerimenti
-- 📈 Dashboard statistiche completo e dettagliato
+- 🌐 Multi-platform support (NGL.link, Tellonym, etc.).
+- 🌍 Multi-language support (Italian, English)
+- 🎯 Intelligent and customized message generation
+- 🎨 Modern graphical interface with Dark/Light themes
+- 📊 Real-time statistics and interactive graphs
+- 🔄 Advanced sending time management
+- 💬 Support for slang and regional dialects
+- 📱 Message preview with suggestions
+- 📈 Comprehensive and detailed statistics dashboard
 
-## Piattaforme Supportate
+## Supported Platforms
 
 - NGL.link
 - Tellonym.me
-- (Altri siti in arrivo...)
+- (More sites coming soon...)
 
-## Installazione
+## Installation
 
-1. Clona il repository
-   ```bash
-   git clone https://github.com/yourusername/anonymous-message-sender.git
-   cd anonymous-message-sender
-   ```
+1. Clone the repository
+```bash
+git clone https://github.com/yourusername/anonymous-message-sender.git
+cd anonymous-message-sender
+```
 
-2. Crea un ambiente virtuale (opzionale ma raccomandato)
-   ```bash
-   python -m venv venv
-   source venv/bin/activate # Linux/Mac
-   ```
-   oppure
-   ```bash
-   venv\Scripts\activate # Windows
-   ```
+2. Create a virtual environment (optional but recommended)
+```bash
+python -m venv venv
+source venv/bin/activate # Linux/Mac
+```
+or
+```bash
+venv\Scripts/activate # Windows
+```
 
-3. Installa le dipendenze
-   ```bash
-   pip install -r requirements.txt
-   ```
+3. Install the dependencies
+```bash
+pip install -r requirements.txt
+```
 
-4. Installa il pacchetto in modalità sviluppo
-   ```bash
-   pip install -e .
-   ```
+4. Install the package in development mode
+```bash
+pip install -e .
+```
 
-5. Avvia l'applicazione
-   ```bash
-   anonymous-sender-gui
-   ```
+5. Start the application
+```bash
+anonymous-sender-gui
+```
 
-## Struttura del Progetto
+## Project Structure
 
 anonymous-message-sender/
-├── src/
-│ ├── core/ # Logica core
-│ ├── gui/ # Interfaccia grafica
-│ ├── parsers/ # Parser per i vari siti
-│ ├── text_generator/ # Generazione testi
-│ └── utils/ # Utilità
-├── tests/ # Test unitari
-└── docs/ # Documentazione
-
-### Aggiungere Supporto per Nuovi Siti
-
-1. Crea un nuovo parser che estende `BaseSiteParser`
-2. Implementa i metodi richiesti:
-   - `extract_data()`
-   - `get_config()`
-   - `get_supported_domains()`
-3. Aggiungi il parser a `ParserFactory`
+├─── src/
+│ ├─── core/ # Core logic
+│ ├─── gui/ # Graphical interface
+│ ├─── parsers/ # Parsers for various sites.
+│ ├─── text_generator/ # Text generation
+│ ├─── parser/ # page parser
+│ ├─── utils/ 
+├─── tools/ #key generator and agent manegement
