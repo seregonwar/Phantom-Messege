@@ -65,3 +65,18 @@ anonymous-message-sender/
 │ ├─── utils/ 
 ├─── tools/ #key generator and agent manegement
 ```
+# GUI
+## Home/messages page
+![{94D306DC-E08E-4DFE-A190-5BB210C64A30}](https://github.com/user-attachments/assets/0623f2b1-7a25-4865-bedf-33af5dee083e)
+## statistics
+![{B063736A-9C96-423F-9224-9BBC1EE4BFCF}](https://github.com/user-attachments/assets/b681480e-7390-4f3e-ba50-e7bdabfa03b1)
+## Settings
+### Settings page on Phantom messege
+![{87971F6B-099C-45F6-9DBC-563E69AC3550}](https://github.com/user-attachments/assets/f2e3163e-2281-41b8-95c5-1f10e2f57614)
+### License page on Phantom messege
+![{7D9EFB71-104B-4412-9E61-2C1539CBCFA8}](https://github.com/user-attachments/assets/ec3a25f5-577a-4fa3-b114-9b3795c3e9c0)
+### Support page on Phantom messege
+![{9B025611-DFF2-4191-BB96-5381233E0DAD}](https://github.com/user-attachments/assets/965481e4-dc63-4206-b685-e27caf2294c7)
+## Help Page
+![{75C4F914-098D-4818-A8B3-84FB95BD7DC0}](https://github.com/user-attachments/assets/55f50676-52f0-42db-9c07-a79a03f8cda1)
+
